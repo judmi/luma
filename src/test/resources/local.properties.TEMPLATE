@@ -1,0 +1,6 @@
+user.username=<>
+user.password=<>
+admin.username=demo_admin
+admin.password=demo_admin123
+baseUrl=https://demo-magento-2.auroracreation.com/
+chrome_options=--window-size=1920,1080
