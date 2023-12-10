@@ -3,9 +3,9 @@ package dmi.ju.model;
 import dmi.ju.model.base.BasePage;
 import org.openqa.selenium.WebDriver;
 
-public class HomePage extends BasePage<HomePage> {
+public class WomenPage extends BasePage<WomenPage> {
 
-    public HomePage(WebDriver driver) {
+    public WomenPage(WebDriver driver) {
         super(driver);
     }
 }

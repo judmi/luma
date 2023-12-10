@@ -5,7 +5,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 
-public class SearchResultsPage extends BasePage{
+public class SearchResultsPage extends BasePage<SearchResultsPage> {
 
     @FindBy(className = "product-item-link")
     private WebElement productLink;
